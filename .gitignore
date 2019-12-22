@@ -13,4 +13,4 @@ nginx.orig
 scgi_params.default
 win-utf
 fastcgi_params.default
-mime.types.defaulta
+mime.types.default
